@@ -103,7 +103,7 @@ nav ul li:hover a {
 }
 
 .halfPage .right .imgContainer:hover {
-    transform: scale(1.03);
+    transform: scale(1.05);
     overflow-y: hidden;
 }
 
